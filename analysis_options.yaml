@@ -1,0 +1,7 @@
+linter:
+  rules:
+    - prefer_single_quotes
+    - always_specify_types
+    - avoid_print
+    - unnecessary_new
+    - prefer_const_constructors
