@@ -19,7 +19,7 @@ class MyApp extends StatelessWidget {
           child: ElevatedButton(
             onPressed: () {
               Navigator.push(context, 
-              MaterialPageRoute(builder: (context) => ChatFeature())); // Returns to the previous screen
+              MaterialPageRoute(builder: (BuildContext context) => ChatFeature())); // Returns to the previous screen
   },
   child: const Text('Go to chat'),
 ) 
