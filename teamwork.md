@@ -2,7 +2,7 @@
 
 This document splits the Wedding Match application development between 3 developers with minimal dependencies and balanced workloads.
 
-## Developer 1: Authentication & User Onboarding
+## Developer 1: Authentication & User Onboarding - Austin
 **Focus:** User management, authentication flows, and onboarding experiences
 
 ### Core Responsibilities:
@@ -44,7 +44,7 @@ This document splits the Wedding Match application development between 3 develop
 
 ---
 
-## Developer 2: Vendor Discovery & Matching
+## Developer 2: Vendor Discovery & Matching - Mikael
 **Focus:** Core app functionality around vendor discovery, matching algorithm, and vendor management
 
 ### Core Responsibilities:
@@ -82,7 +82,7 @@ This document splits the Wedding Match application development between 3 develop
 
 ---
 
-## Developer 3: Web Dashboard & Admin Portal
+## Developer 3: Web Dashboard & Admin Portal - Jarom
 **Focus:** Vendor-facing web application and administrative tools
 
 ### Core Responsibilities:
