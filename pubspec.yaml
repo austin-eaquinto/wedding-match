@@ -1,5 +1,5 @@
-name: my_flutter_project
-description: A new Flutter project.
+name: wedding_match
+description: A wedding vendor matching application.
 publish_to: 'none'
 version: 1.0.0+1
 
@@ -17,6 +17,6 @@ dev_dependencies:
 flutter:
   uses-material-design: true
 
-  assets:
-//    - assets/images/:
-//    - assets/icons/:
+  # assets:
+  #   - assets/images/
+  #   - assets/icons/

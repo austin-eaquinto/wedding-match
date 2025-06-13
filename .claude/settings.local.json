@@ -2,7 +2,14 @@
   "permissions": {
     "allow": [
       "Bash(mkdir:*)",
-      "Bash(find:*)"
+      "Bash(find:*)",
+      "Bash(gh issue create:*)",
+      "Bash(gh issue edit:*)",
+      "Bash(flutter pub:*)",
+      "Bash(flutter analyze:*)",
+      "Bash(/usr/local/bin/flutter analyze)",
+      "Bash(gh issue list:*)",
+      "Bash(gh label create:*)"
     ],
     "deny": []
   }
